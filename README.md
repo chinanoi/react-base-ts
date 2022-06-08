@@ -1,3 +1,5 @@
+# 这是一个react通用脚手架-typescript版本
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
